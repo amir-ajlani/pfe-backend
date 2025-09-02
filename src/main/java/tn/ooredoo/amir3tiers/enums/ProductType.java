@@ -1,0 +1,3 @@
+package tn.ooredoo.amir3tiers.enums;
+
+public enum ProductType { HARDWARE, SERVICE, BUNDLE }//preciser routeur, etc...
